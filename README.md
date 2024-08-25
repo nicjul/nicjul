@@ -16,75 +16,75 @@ Analyst @ MRI Software
 
   ### Academic Projects
 Machine Learning Project 1: Heart Disease Prediction
-• Tools: Python
-• Overview: Analyzed heart disease data to build predictive models.
-• Tasks:
-o Data acquisition and cleaning
-o Data exploration and analysis
-o Model development using Random Forest, Gradient Boosting, SVC, MLP, LDA, QDA, and Naïve Bayes
-o Hyperparameter tuning and evaluation of model accuracy
+- Tools: Python
+- Overview: Analyzed heart disease data to build predictive models.
+- Tasks:
+- Data acquisition and cleaning
+- Data exploration and analysis
+- Model development using Random Forest, Gradient Boosting, SVC, MLP, LDA, QDA, and Naïve Bayes
+- Hyperparameter tuning and evaluation of model accuracy
 
 
 Machine Learning Project 2: Cervical Cancer Prediction
-• Tools: Python
-• Overview: Analyzed cervical cancer data to create and refine predictive models.
-• Tasks:
-o Data acquisition and cleaning
-o Data exploration and analysis
-o Model development with Logistic Regression and Random Forest
-o Hyperparameter tuning and accuracy assessment
+- Tools: Python
+- Overview: Analyzed cervical cancer data to create and refine predictive models.
+- Tasks:
+- Data acquisition and cleaning
+- Data exploration and analysis
+- Model development with Logistic Regression and Random Forest
+- Hyperparameter tuning and accuracy assessment
 
 
 Machine Learning Project 3: Obesity Prediction
-• Tools: Python
-• Overview: Investigated obesity data to build and evaluate predictive models.
-• Tasks:
-o Data acquisition and cleaning
-o Data exploration and analysis
-o Model development using Decision Tree, Linear Discriminant Analysis, and KMeans Clustering with PCA
-o Hyperparameter tuning and evaluation of prediction accuracy
+- Tools: Python
+- Overview: Investigated obesity data to build and evaluate predictive models.
+- Tasks:
+- Data acquisition and cleaning
+- Data exploration and analysis
+- Model development using Decision Tree, Linear Discriminant Analysis, and KMeans Clustering with PCA
+- Hyperparameter tuning and evaluation of prediction accuracy
 
 
 SQL Project: University Student Database
-• Tools: SQL, PL/SQL, Python
-• Overview: Designed and managed a university student database for improved data handling and reporting.
-• Tasks:
-o Database design and maintenance
-o Complex query formulation
-o Report generation
+- Tools: SQL, PL/SQL, Python
+- Overview: Designed and managed a university student database for improved data handling and reporting.
+- Tasks:
+- Database design and maintenance
+- Complex query formulation
+- Report generation
 
 
 SQLite/Python Project: Tweet Analysis
-• Tools: Python, SQLite
-• Overview: Downloaded and analyzed tweets, storing the data in an SQLite database.
-• Tasks:
-o Data download and population into a three-table SQLite database
-o Data verification and validation
-o Batch processing, querying, and report generation 
+- Tools: Python, SQLite
+- Overview: Downloaded and analyzed tweets, storing the data in an SQLite database.
+- Tasks:
+- Data download and population into a three-table SQLite database
+- Data verification and validation
+- Batch processing, querying, and report generation 
 
 
 Data Visualization Project: Lunar Eclipse Analysis
-• Tools: Tableau
-• Overview: Visualized lunar eclipse data to uncover insights through various visualization techniques.
-• Tasks:
-o Data exploration and analysis
-o Creation of interactive visualizations
-o Presentation of findings
+- Tools: Tableau
+- Overview: Visualized lunar eclipse data to uncover insights through various visualization techniques.
+- Tasks:
+- Data exploration and analysis
+- Creation of interactive visualizations
+- Presentation of findings
 
 
 R Project: Residential Property Analysis
-• Tools: R
-• Overview: Analyzed factors influencing residential property prices in Washington, D.C.
-• Tasks:
-o Data exploration and preparation
-o Modeling and statistical analysis
-o Evaluation and interpretation of results
+- Tools: R
+- Overview: Analyzed factors influencing residential property prices in Washington, D.C.
+- Tasks:
+- Data exploration and preparation
+- Modeling and statistical analysis
+- Evaluation and interpretation of results
 
 
 SAS Project: Happiness and Life Satisfaction
-• Tools: SAS
-• Overview: Investigated factors affecting individual happiness and life satisfaction.
-• Tasks:
-o Data exploration and preparation
-o Modeling and statistical analysis
-o Evaluation and presentation of findings
+- Tools: SAS
+- Overview: Investigated factors affecting individual happiness and life satisfaction.
+- Tasks:
+- Data exploration and preparation
+- Modeling and statistical analysis
+- Evaluation and presentation of findings
