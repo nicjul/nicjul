@@ -9,10 +9,19 @@ Technical Skills: Python, R, SQL, PL/SQL
 
 
 ### Work Experience
-Analyst @ MRI Software
-- big impact 1!
-- big impact 2!
+**Analyst @ MRI Software (_November 2022 – Present_)**
+-	Extract and compile data from various systems to identify and resolve billing variances, enhancing accuracy by 20%.
+-	Prepare detailed data analyses for senior management, resulting in more informed decision-making.
+-	Collaborate cross-departmentally to develop and implement new billing processes, reducing processing time by 10%.
 
+**Data Analyst @ IMO Health (Temporary via Hirewell Talent Acquisition) (_July 2021 – December 2021_)**
+- Executed ETL processes to consolidate data from diverse sources, improving data quality for migration from Oracle to PostgreSQL.
+-	Authored clean, testable SQL and Python code to support rapid delivery through Continuous Integration and automated deployments.
+-	Contributed to design and process improvements in an agile team environment, enhancing overall project efficiency.
+
+**Staff Accountant @ Ulta Beauty (_November 2018 – November 2019_)**
+-	Managed fixed asset data including additions, transfers, and disposals, ensuring accurate financial reporting.
+-	Coded invoices and supported month-end financial close processes, contributing to timely and accurate financial reporting.
 
   ### Academic Projects
 Machine Learning Project 1: Heart Disease Prediction
