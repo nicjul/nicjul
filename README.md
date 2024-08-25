@@ -3,9 +3,9 @@
 Technical Skills: Python, R, SQL, PL/SQL
 
 ### Education
-•	Master of Science in Data Science (Healthcare Concentration) | DePaul University | IL
-•	Master of Business Administration (Accounting Concentration) | Keller Graduate School of Management | IL
-•	Bachelor of Arts in General Studies (Minor in Accounting) | Western Illinois University | IL
+-	Master of Science in Data Science (Healthcare Concentration) | DePaul University | IL
+-	Master of Business Administration (Accounting Concentration) | Keller Graduate School of Management | IL
+-	Bachelor of Arts in General Studies (Minor in Accounting) | Western Illinois University | IL
 
 
 ### Work Experience
