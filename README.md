@@ -3,7 +3,11 @@
 ### Education
 Data Science, MS
 
+
+
 ### Academic Projects
+
+
 
 ### Work Experience
 Analyst @ MRI Software
@@ -11,6 +15,6 @@ Analyst @ MRI Software
 - big impact 2!
   
 
-### Academic Projects
+
 
 
