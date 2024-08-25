@@ -1,6 +1,6 @@
 # Data Analyst
 
-Technical Skills: Python, R, SQL, PL/SQL
+Technical Skills: Python, R, SQL, PL/SQL, MS Excel, MS, Access
 
 ### Education
 -	Master of Science in Data Science (Healthcare Concentration) | DePaul University | IL
