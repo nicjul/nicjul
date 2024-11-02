@@ -1,16 +1,23 @@
-## Hi there 👋
+## Hi there, I am Nicole Julien!
 
-<!--
-**nicjul/nicjul** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+Welcome to my GitHub profile! 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🌟 About Me
+- 🎓 **Education**: Master's in Data Science, DePaul University
+- 🌍 **Location**: Chicago
+- 🌱 **Currently Learning** Power BI, Cloud Computing
+- 📫 **Reach Me**: [Email](mailto:julienpnicole@gmail.com)
+
+---
+
+### 🛠️ Skills and Technologies
+- **Programming Languages**: Python, SQL
+- **RDBMS**: Oracle, MySQL, Microsoft Access
+- **Data Visualization**: Tableau
+- **CRM & ERP Systems**: Salesforce.com, NetSuite
+- **Others**: Git, Jupyter Notebooks, Google Colab
+
+---
+- Thanks for visiting! 😊
+
