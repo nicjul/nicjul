@@ -1,7 +1,6 @@
-## Hi there, I am Nicole Julien!
+## Hey, I'm Nicole Julien!
 
-
-Welcome to my GitHub profile! 
+### Data Analyst
 
 ### 🌟 About Me
 - 🎓 **Education**: Master's in Data Science, DePaul University
@@ -11,7 +10,7 @@ Welcome to my GitHub profile!
 
 ---
 
-### 🛠️ Skills and Technologies
+### 🛠️ Technologies & Tools
 - **Programming Languages**: Python, SQL
 - **RDBMS**: Oracle, MySQL, Microsoft Access
 - **Data Visualization**: Tableau
