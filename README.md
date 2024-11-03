@@ -1,4 +1,4 @@
-## Hi there, I am Nicole Julien
+## Hi there, I am Nicole Julien!
 
 
 Welcome to my GitHub profile! 
