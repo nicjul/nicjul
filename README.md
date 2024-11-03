@@ -20,7 +20,7 @@ Welcome to my GitHub profile!
 
 ---
 
-### Projects
+### 🔭 Projects
 - Top UK Youtubers of 2024
 - Heart Disease Prediction
 - University Student Database
