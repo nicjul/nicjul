@@ -19,5 +19,12 @@ Welcome to my GitHub profile!
 - **Others**: Git, Jupyter Notebooks, Google Colab
 
 ---
+
+### Projects
+- Top UK Youtubers of 2024
+- Heart Disease Prediction
+- University Student Database
+
+---
 - Thanks for visiting! 😊
 
